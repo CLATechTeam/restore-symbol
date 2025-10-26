@@ -33,7 +33,7 @@ download from [releases](https://github.com/crifan/restore-symbol/releases/) (th
 
 * download code
   ```bash
-  git clone --recursive https://github.com/crifan/restore-symbol.git
+  git clone --recursive https://github.com/CLATechTeam/restore-symbol.git
   ```
 * compile to generate `restore-symbol`
   ```bash
