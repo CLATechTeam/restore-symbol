@@ -58,7 +58,7 @@
     RSSymbol * s = [RSSymbol new];
     s.name = name;
     s.address = addr;
-    s.type = N_SECT;
+    s.type = N_SECT | N_EXT;
     return s;
 }
 
